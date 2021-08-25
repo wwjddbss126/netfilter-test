@@ -16,3 +16,6 @@ version: 2017-Nov-13: libnetfilter_queue-1.0.3
 run:
 ![image](https://user-images.githubusercontent.com/49504937/130730813-b0370814-767a-4b05-955b-be35b85dc9c5.png)
 
+output:
+![image](https://user-images.githubusercontent.com/49504937/130823787-221f937d-9013-4452-b639-47efc9da706c.png)
+
