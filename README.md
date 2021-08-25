@@ -17,5 +17,4 @@ run:
 ![image](https://user-images.githubusercontent.com/49504937/130730813-b0370814-767a-4b05-955b-be35b85dc9c5.png)
 
 output:
-![image](https://user-images.githubusercontent.com/49504937/130823787-221f937d-9013-4452-b639-47efc9da706c.png)
-
+![image](https://user-images.githubusercontent.com/49504937/130825238-a9fcfea9-5b2e-43d2-a88e-42f425a53d4a.png)
