@@ -59,14 +59,8 @@ void dump(unsigned char* buf, int size) {
 		printf("%02x ", TCPstr[cnt1]);
 		cnt1++;
 	}
-	printf("\nSource PORT: ");
-	for (i = 0; i <2; i++){
-		printf("%d, %02x ", IPstr[i], IPstr[i]);
-	}
-	printf("\nDestination PORT: ");
-	for (i = 2; i <4; i++){
-		printf("%d, %02x ", IPstr[i], IPstr[i]);
-	}
+	printf("\nSource PORT: %d", (TCPstr[0]<<8)+TCPstr[1]);
+	printf("\nDestination PORT: %d", (TCPstr[2]<<8)+TCPstr[3]);
 	printf("\n");
 	printf("================== Host Info ==================");
 	int cnt2 = 0;
